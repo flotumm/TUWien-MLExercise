@@ -1,0 +1,4 @@
+# Auto-pair every .ipynb in the repo with a .py version
+formats = "ipynb,py:percent"
+notebook_metadata_filter = "all"
+cell_metadata_filter = "all"

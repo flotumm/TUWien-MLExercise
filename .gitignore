@@ -1,4 +1,25 @@
+# Virtual environment
 .venv/
-__pycache__/
+env/
+venv/
+myenv/
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
-*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data and results (optional – comment out if you want to track)
+# datasets/*.csv
+# datasets/*.arff
+# results/
+# output.png
+
+# VSCode
+.vscode/
